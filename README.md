@@ -1,4 +1,4 @@
-[[# docker-stationenlernen
+[ docker-stationenlernen
 Docker Stationenlernen von Sophie
 ](https://dockerlabs.collabnix.com/workshop/docker/)
 
